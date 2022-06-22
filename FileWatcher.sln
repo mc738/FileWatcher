@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FileWatcher", "FileWatcher\FileWatcher.fsproj", "{09AB5B49-823C-422D-9C8E-14BB107AC77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AB5B49-823C-422D-9C8E-14BB107AC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB5B49-823C-422D-9C8E-14BB107AC77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB5B49-823C-422D-9C8E-14BB107AC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AB5B49-823C-422D-9C8E-14BB107AC77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
